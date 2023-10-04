@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I like listening to music
 
 ### Code.org Gamelab
-[RobotFace](https://github.com/leilale1/Robot/)
+[RobotFace](https://leilale1.github.io/Robot/)
