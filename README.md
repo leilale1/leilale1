@@ -8,6 +8,8 @@
 
 ### Code.org Gamelab
 [RobotFace](https://leilale1.github.io/Robot/)
+- A robot that changes its features each time you run the program.
 
 ### Captioned Scene
 [PhoneHolder](https://studio.code.org/projects/gamelab/CJI6hdbIkXggWSM4lRxoaaju8C2eR3XFOvOiEwwuaJA/)
+- A scene of a phone holder with a caption of Ms. Reuther talking. 
