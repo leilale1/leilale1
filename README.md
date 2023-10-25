@@ -6,15 +6,12 @@
 - 🎈 Fun fact: I like listening to music
 - 📫 How to reach me: lel26@wpsma.org
 
-## Code.org Gamelab
-#### Robot 
+### Code.org Gamelab
 [RobotFace](https://leilale1.github.io/Robot/)
-- A robot that changes its features each time you run the program.
+> A robot that changes its features each time you run the program.
 
-#### Captioned Scene
-[PhoneHolder](https://studio.code.org/projects/gamelab/CJI6hdbIkXggWSM4lRxoaaju8C2eR3XFOvOiEwwuaJA/)
-- A scene of a phone holder made up of shapes, sprites, and captions.
+[Captioned Scene](https://studio.code.org/projects/gamelab/CJI6hdbIkXggWSM4lRxoaaju8C2eR3XFOvOiEwwuaJA/)
+> A scene of a phone holder made up of shapes, sprites, and captions.
 
-#### Interactive Card
-[Card](https://studio.code.org/projects/gamelab/WLtimgAHOvPmgIWHQn1tpb5C016SHSwynm1TUQ6TU2c/)
-- An interactive good luck card for a marathon runner.
+[Interactive Card](https://studio.code.org/projects/gamelab/WLtimgAHOvPmgIWHQn1tpb5C016SHSwynm1TUQ6TU2c/)
+> An interactive good luck card for a marathon runner.
