@@ -15,3 +15,6 @@
 
 [Interactive Card](https://studio.code.org/projects/gamelab/WLtimgAHOvPmgIWHQn1tpb5C016SHSwynm1TUQ6TU2c/)
 > An interactive good luck card for a marathon runner.
+
+[Side Scroller Game](https://studio.code.org/projects/gamelab/AX_RYeTWfZvK_srDEFhY6UFnO8Ha5jvWae1XYMq4elE/)
+> An interactive unicorn game.
