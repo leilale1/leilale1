@@ -18,3 +18,10 @@
 
 [Side Scroller Game](https://studio.code.org/projects/gamelab/AX_RYeTWfZvK_srDEFhY6UFnO8Ha5jvWae1XYMq4elE/)
 > An interactive unicorn game.
+
+[Flyer Game](https://studio.code.org/projects/gamelab/xgF-kIbRko6TKXyLD9ihVOXpOLjZZyhZbZeaoIpD3Po/)
+> An interactive alien game.
+
+[Final Project](https://studio.code.org/projects/gamelab/XmSkOugc5kEoQ9Va-UU-8Fdt3fX9ScVP4vbFFWMw5Kk/)
+> An interative game for players to pass a beach ball.
+
