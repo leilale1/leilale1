@@ -22,6 +22,16 @@
 [Flyer Game](https://studio.code.org/projects/gamelab/xgF-kIbRko6TKXyLD9ihVOXpOLjZZyhZbZeaoIpD3Po/)
 > An interactive alien game.
 
+[Platform Game]{https://studio.code.org/projects/gamelab/qWjKkwxvz5fPvt1G-k95DCf-L9nfRGNaERd97Ov_cOc/}
+> Make a unicorn jump from plaform to platform to catch hearts.
+
 [Final Project](https://studio.code.org/projects/gamelab/XmSkOugc5kEoQ9Va-UU-8Fdt3fX9ScVP4vbFFWMw5Kk/)
 > An interative game for players to pass a beach ball.
+
+### App Inventor
+[Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=2bd98e1e-3007-48aa-831e-630764103ab2/)
+> Press different buttons to play animal sounds.
+
+[Music Maker](https://gallery.appinventor.mit.edu/?galleryid=eac8062c-d16b-4b5e-bbab-af246bee23df/)
+> Play music with different instruments.
 
