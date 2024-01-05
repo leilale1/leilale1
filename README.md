@@ -22,7 +22,7 @@
 [Flyer Game](https://studio.code.org/projects/gamelab/xgF-kIbRko6TKXyLD9ihVOXpOLjZZyhZbZeaoIpD3Po/)
 > An interactive alien game.
 
-[Platform Game]{https://studio.code.org/projects/gamelab/qWjKkwxvz5fPvt1G-k95DCf-L9nfRGNaERd97Ov_cOc/}
+[Platform Game](https://studio.code.org/projects/gamelab/qWjKkwxvz5fPvt1G-k95DCf-L9nfRGNaERd97Ov_cOc/)
 > Make a unicorn jump from plaform to platform to catch hearts.
 
 [Final Project](https://studio.code.org/projects/gamelab/XmSkOugc5kEoQ9Va-UU-8Fdt3fX9ScVP4vbFFWMw5Kk/)
@@ -32,6 +32,11 @@
 [Hello It's Me](https://gallery.appinventor.mit.edu/?galleryid=2bd98e1e-3007-48aa-831e-630764103ab2/)
 > Press different buttons to play animal sounds.
 
+[My Piano](https://gallery.appinventor.mit.edu/?galleryid=52751dcb-cd52-4b92-9e84-591ef681454f/)
+> Play different piano keys.
+
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=eac8062c-d16b-4b5e-bbab-af246bee23df/)
 > Play music with different instruments.
 
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b92a19cb-87b4-40ea-a2a1-f1c370bc5848/)
+> An interactive game where you hit vegetables with a ball to score points.
