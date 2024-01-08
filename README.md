@@ -38,5 +38,8 @@
 [Music Maker](https://gallery.appinventor.mit.edu/?galleryid=eac8062c-d16b-4b5e-bbab-af246bee23df/)
 > Play music with different instruments.
 
-[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=b92a19cb-87b4-40ea-a2a1-f1c370bc5848/)
+[Find the Gold](https://gallery.appinventor.mit.edu/?galleryid=6c6d58dc-100f-4311-81f4-e1b1b2af71e5/)
+> Move around a ball to reach a pot of gold!
+
+[Food Chase](https://gallery.appinventor.mit.edu/?galleryid=ac57f3e3-f4b7-45c4-a1b4-901e94d9fa5a/)
 > An interactive game where you hit vegetables with a ball to score points.
