@@ -48,5 +48,5 @@
 [Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/slateBlueCow1509/)
 > Picture of sunset and mountains.
 
-[Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/moccasinOctopus6180/)
+[Unit 2 Collaborative Task](https://academy.cs.cmu.edu/sharing/moccasinOctopus6180/)
 > Press your mouse to create stars and make a unicorn horn glow.
