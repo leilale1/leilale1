@@ -43,3 +43,10 @@
 
 [Food Chase](https://gallery.appinventor.mit.edu/?galleryid=ac57f3e3-f4b7-45c4-a1b4-901e94d9fa5a/)
 > An interactive game where you hit vegetables with a ball to score points.
+
+### CMU Python
+[Unit 1 Creative Task](https://academy.cs.cmu.edu/sharing/slateBlueCow1509/)
+> Picture of sunset and mountains.
+
+[Unit 2 Creative Task](https://academy.cs.cmu.edu/sharing/moccasinOctopus6180/)
+> Press your mouse to create stars and make a unicorn horn glow.
