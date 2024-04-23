@@ -50,3 +50,10 @@
 
 [Unit 2 Collaborative Task](https://academy.cs.cmu.edu/sharing/moccasinOctopus6180/)
 > Press your mouse to create stars and make a unicorn horn glow.
+
+[Unit 3 Collaborative Task](https://academy.cs.cmu.edu/sharing/greenYellowCrocodile4299/)
+> Press mouse to make dog drink milk from the bowl.
+
+[Unit 4 Collaborative Task](https://academy.cs.cmu.edu/sharing/blueVioletOwl5932/)
+> Create an acai or yogurt bowl! Pick your own toppings and customize the background.
+> 
