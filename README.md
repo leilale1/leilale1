@@ -56,4 +56,6 @@
 
 [Unit 4 Collaborative Task](https://academy.cs.cmu.edu/sharing/blueVioletOwl5932/)
 > Create an acai or yogurt bowl! Pick your own toppings and customize the background.
-> 
+
+[Unit 5 Collaborative Task](https://academy.cs.cmu.edu/sharing/blueSpider7236/)
+> Move around a flying ladybug and place flowers on the grass!
